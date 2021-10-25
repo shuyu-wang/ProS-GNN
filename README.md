@@ -17,8 +17,9 @@ Here we pioneered a deep graph neural network based method for predicting protei
 
 # Usage
 S3214 dataset for training can be found at: https://github.com/gersteinlab/ThermoNet
+
 To train the model:
 ```
 python train.py
 ```
-To try with an example:
+
